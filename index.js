@@ -106,3 +106,4 @@ function assistir(gFilme,ingresso){
 }
 assistir(gFilme,ingresso)*/
 
+aula dia 01/10
