@@ -36,3 +36,4 @@ function imprimir(palavras){
 imprimir(palavras)
 console.log(frase)
 
+aula dia 02/10
