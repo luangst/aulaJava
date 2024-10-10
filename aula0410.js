@@ -87,22 +87,15 @@ console.log(novo)
 novoA()*/
 
 function arrayString(){
-  arrau= []
+  arraza= []
   for(let i = 0; i<arrayOriginal.length; i++){
-let frase= (`"O elemento do índex ${i} é ${arrayOriginal[i]}`)
-arrau.push(frase)
+let frase= (`O elemento do índex ${i} é ${arrayOriginal[i]}`)
+arraza.push(frase)
 
+  }
 }
-for()
-//fazer um por um tipo os dos bichos
+arrayString()
+console.log(arraza)
 
 
 
-
-
-
-
-function valores(){
-  let valorMaximo=78
-  let valorMinimo=5
-}
