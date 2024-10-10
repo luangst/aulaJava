@@ -55,7 +55,7 @@ for(let i=0; i<nome; i++){
   //teria que alterar mais coisas para fazer esse final*/
 
 
-let arrayOriginal=[20,40,7,5,60,3,80]
+let arrayOriginal=[20,40,7,5,60,3,80,66,79,10]
 let novo=[]
 
 /*function funções(){
