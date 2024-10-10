@@ -99,3 +99,16 @@ console.log(arraza)
 
 
 
+let valorMaximo= arrayOriginal[0];
+let valorMinimo= arrayOriginal[0];
+
+for(let i=0; i<arrayOriginal.length; i++){
+  if(arrayOriginal[i]<valorMinimo){
+    valorMinimo = arrayOriginal[i];
+  }
+
+  if(arrayOriginal[i]>valorMaximo){
+    valorMaximo = arrayOriginal[i]
+  }
+}
+console.log(`O maior número é ${valorMaximo} e o menor é ${valorMinimo}`)
